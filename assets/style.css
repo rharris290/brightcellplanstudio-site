@@ -55,3 +55,5 @@ main section+.custom{margin-top:90px}
 .sall{display:block;text-align:center;padding:10px;font-weight:700;color:var(--a1);text-decoration:none}.snone{padding:12px;margin:0;color:var(--muted)}
 .guide{max-width:760px;padding-top:48px}.guide h1{font-size:clamp(32px,4.4vw,48px)}.guide h2{font-size:22px;margin-top:32px}
 @media(max-width:900px){.hdr-in{flex-wrap:wrap;height:auto;padding-top:10px;padding-bottom:10px}.srch{order:3;flex:1 1 100%}.nav{order:4;flex:1 1 100%}.sres{width:100%}}
+/* nav fit fix */
+@media(min-width:901px){.nav{flex:0 0 auto;overflow:visible}.nav a{padding:8px 10px;font-size:13.5px}.srch{flex:1 1 220px;min-width:180px}}
