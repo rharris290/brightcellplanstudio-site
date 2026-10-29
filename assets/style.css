@@ -57,3 +57,13 @@ main section+.custom{margin-top:90px}
 @media(max-width:900px){.hdr-in{flex-wrap:wrap;height:auto;padding-top:10px;padding-bottom:10px}.srch{order:3;flex:1 1 100%}.nav{order:4;flex:1 1 100%}.sres{width:100%}}
 /* nav fit fix */
 @media(min-width:901px){.nav{flex:0 0 auto;overflow:visible}.nav a{padding:8px 10px;font-size:13.5px}.srch{flex:1 1 220px;min-width:180px}}
+.logo{display:inline-flex;align-items:center;gap:.5rem}.logo .lmark{width:34px;height:34px;flex:none;border-radius:9px}
+.logo span{font-family:"DM Serif Display",Georgia,serif;font-style:italic;font-weight:400;letter-spacing:0;font-size:1.06em}
+.bundles,.related{margin-top:3rem}
+.rail{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(230px,1fr);gap:1.1rem;overflow-x:auto;scroll-snap-type:x mandatory;padding:.2rem .1rem 1rem;-webkit-overflow-scrolling:touch}
+.rail .card{scroll-snap-align:start}
+@media(min-width:1100px){.rail{grid-auto-columns:calc((100% - 3.3rem)/4)}}
+.signup{margin:3.5rem 0 1rem;display:flex;gap:2rem;align-items:center;justify-content:space-between;padding:2.2rem 2.4rem;border-radius:24px;background:#fff;border:1px solid var(--line);position:relative;overflow:hidden}
+.signup:before{content:"";position:absolute;inset:0 auto 0 0;width:6px;background:var(--grad)}
+.signup h2{font-size:clamp(1.5rem,3vw,2rem)}.signup .lead{margin:0;max-width:60ch}.signup .btn{flex:none}
+@media(max-width:720px){.signup{flex-direction:column;align-items:flex-start;padding:1.6rem 1.4rem}.rail{grid-auto-columns:72%}}
