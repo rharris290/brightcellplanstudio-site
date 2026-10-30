@@ -103,3 +103,4 @@ main section+.custom{margin-top:90px}
 /* long words / file names never overflow */
 .pdetails,.pd-desc,.pd-inc,.pdetails li,.pdetails p,.pdetails h3,.pinfo,.desc,.works,.wnote,.gcount{min-width:0;overflow-wrap:anywhere;word-break:break-word}
 .pd-inc,.pd-desc{overflow:hidden}.pinfo{min-width:0}.prod>*{min-width:0}
+h1,h2,h3{overflow-wrap:anywhere}
