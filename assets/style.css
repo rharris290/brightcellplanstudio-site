@@ -100,3 +100,6 @@ main section+.custom{margin-top:90px}
 .pd-inc ul{list-style:none;padding-left:0}.pd-inc li{position:relative;padding-left:26px}.pd-inc li:before{content:"";position:absolute;left:0;top:.45em;width:16px;height:16px;border-radius:50%;background:var(--a1) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4 8.2l2.6 2.5L12 5.4' fill='none' stroke='%23fff' stroke-width='2'/%3E%3C/svg%3E") center/contain no-repeat}
 .pd-inc h3:first-of-type{margin-top:6px}
 @media(max-width:900px){.pdetails{grid-template-columns:1fr}.pd-inc{position:static}.gnav{opacity:1}}
+/* long words / file names never overflow */
+.pdetails,.pd-desc,.pd-inc,.pdetails li,.pdetails p,.pdetails h3,.pinfo,.desc,.works,.wnote,.gcount{min-width:0;overflow-wrap:anywhere;word-break:break-word}
+.pd-inc,.pd-desc{overflow:hidden}.pinfo{min-width:0}.prod>*{min-width:0}
