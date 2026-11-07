@@ -109,17 +109,16 @@ main section+.custom{margin-top:90px}
 .pd-inc,.pd-desc{overflow:hidden}.pinfo{min-width:0}.prod>*{min-width:0}
 h1,h2,h3{overflow-wrap:anywhere}
 
-.home-split{display:grid;grid-template-columns:clamp(420px,32vw,520px) minmax(280px,1fr) minmax(280px,320px);grid-template-areas:"essay products signup";gap:28px 32px;width:calc(100% - 64px);max-width:none;margin:32px 32px 0;padding:0;box-sizing:border-box;align-items:start}
+.home-split{display:grid;grid-template-columns:minmax(0,1fr) minmax(300px,340px);grid-template-areas:"products signup" "essay essay";gap:40px 36px;width:calc(100% - 64px);max-width:none;margin:32px 32px 0;padding:0;box-sizing:border-box;align-items:start}
 .home-copy{grid-area:essay}
 .home-products{grid-area:products;min-width:0}
 .home-signup{grid-area:signup;min-width:0;position:sticky;top:84px;align-self:start}
 .home-products .wrap.finder{max-width:none;margin:0;padding-left:0;padding-right:0}
 .home-products .finder .sh{margin-top:0}
-.home-products .grid{grid-template-columns:repeat(auto-fill,minmax(240px,1fr))}
 .home-signup #join.wrap{max-width:none;margin:0;padding:0}
 .home-signup .su2.su2-panel{max-width:none;width:100%;margin:0;padding:1rem 1rem .9rem;gap:.65rem;grid-template-columns:minmax(0,1fr);border-radius:20px;box-shadow:0 18px 40px -24px rgba(20,17,43,.45)}
-.home-signup .su2-panel h2{font-size:1.35rem;line-height:1.15;margin:.25rem 0 .35rem}
-.home-signup .su2-panel .lead{font-size:14px;margin:0 0 .5rem}
+.home-signup .su2-panel h2{font-size:1.55rem;line-height:1.15;margin:.3rem 0 .45rem}
+.home-signup .su2-panel .lead{font-size:15px;margin:0 0 .55rem}
 .home-signup .su2-panel .su2-pts{font-size:13px;gap:4px 10px;margin:0 0 .65rem;flex-direction:column}
 .home-signup .su2-panel .su2-form{max-width:none;flex-direction:column;align-items:stretch}
 .home-signup .su2-panel .su2-form input{min-width:0;width:100%;flex:none;padding:11px 14px}
@@ -148,5 +147,5 @@ h1,h2,h3{overflow-wrap:anywhere}
 .home-toc{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin:0 0 8px}
 .home-toc ol{columns:1;font-size:14.5px;margin:6px 0 0}
 .home-back{margin-top:20px}
-@media(max-width:1239px){.home-split{grid-template-columns:minmax(0,1fr) minmax(260px,300px);grid-template-areas:"products signup" "essay essay";width:calc(100% - 48px);margin:20px 24px 0}.home-copy{margin-top:8px}}
-@media(max-width:759px){.home-split{grid-template-columns:1fr;grid-template-areas:"signup" "products" "essay";gap:16px;width:calc(100% - 32px);margin:16px 16px 0}.home-signup{position:static}.home-copy{margin-top:8px}}
+@media(max-width:860px){.home-split{grid-template-columns:1fr;grid-template-areas:"signup" "products" "essay";gap:18px;width:calc(100% - 32px);margin:16px 16px 0}.home-signup{position:static}.home-copy{margin-top:8px}}
+@media(max-width:560px){.home-products .grid{grid-template-columns:1fr}}
