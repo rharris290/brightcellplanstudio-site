@@ -112,6 +112,21 @@ h1,h2,h3{overflow-wrap:anywhere}
 .home-split{display:grid;grid-template-columns:clamp(500px,34vw,600px) minmax(0,1fr);gap:40px;width:calc(100% - 64px);max-width:none;margin:32px 32px 0;padding:0;box-sizing:border-box;align-items:start}
 .home-products{min-width:0}
 .home-products .wrap.finder{max-width:none;margin:0;padding-left:0;padding-right:0}
+.home-products #join.wrap{max-width:none;margin:0;padding:0}
+.home-products .su2.su2-panel{max-width:440px;width:100%;margin:48px 0 16px auto;padding:1rem 1.05rem .95rem;gap:.7rem;grid-template-columns:minmax(0,1fr);border-radius:20px;box-shadow:0 18px 40px -24px rgba(20,17,43,.45)}
+.home-products .su2-panel h2{font-size:1.45rem;line-height:1.15;margin:.3rem 0 .4rem}
+.home-products .su2-panel .lead{font-size:14px;margin:0 0 .55rem}
+.home-products .su2-panel .su2-pts{font-size:13px;gap:4px 12px;margin:0 0 .7rem}
+.home-products .su2-panel .su2-form{max-width:none}
+.home-products .su2-panel .su2-form input{min-width:0;padding:11px 14px}
+.home-products .su2-panel .su2-art{order:-1;padding:4px 72px 4px 4px;position:relative}
+.home-products .su2-panel .su2-card{transform:none}
+.home-products .su2-panel .su2-card img{max-height:112px;width:auto;max-width:100%;border-radius:12px}
+.home-products .su2-panel .su2-badge{top:8px;left:8px;font-size:13px;padding:6px 8px;border-radius:10px}
+.home-products .su2-panel .su2-badge small{font-size:10px;margin-top:2px}
+.home-products .su2-panel .su2-off{width:56px;height:56px;right:8px;top:18px;bottom:auto;font-size:14px}
+.home-products .su2-panel .su2-fine{font-size:12px;margin:.55rem 0 0}
+.home-products #join + .finder .sh{margin-top:10px}
 .home-copy{box-sizing:border-box;width:100%;background:#faf8fd;border:1px solid var(--line);border-radius:16px;padding:22px 24px;margin-top:48px;font-size:16px;line-height:1.65;min-width:0}
 .home-copy h2{font-family:"DM Serif Display",Georgia,serif;font-weight:400;font-size:26px;line-height:1.25;margin:36px 0 10px;padding-top:18px;border-top:1px solid var(--line);letter-spacing:0}
 .home-copy h2:first-of-type{border-top:0;padding-top:0;margin-top:8px}
@@ -129,4 +144,4 @@ h1,h2,h3{overflow-wrap:anywhere}
 .home-toc{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin:0 0 8px}
 .home-toc ol{columns:1;font-size:14.5px;margin:6px 0 0}
 .home-back{margin-top:20px}
-@media(max-width:1099px){.home-split{grid-template-columns:1fr;gap:0;width:calc(100% - 32px);margin:16px 16px 0}.home-copy{order:2;margin-top:24px}.home-products{order:1}}
+@media(max-width:1099px){.home-split{grid-template-columns:1fr;gap:0;width:calc(100% - 32px);margin:16px 16px 0}.home-copy{order:2;margin-top:24px}.home-products{order:1}.home-products .su2.su2-panel{max-width:none;margin:8px 0 14px}}
