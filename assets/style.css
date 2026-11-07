@@ -108,3 +108,25 @@ main section+.custom{margin-top:90px}
 .pdetails,.pd-desc,.pd-inc,.pdetails li,.pdetails p,.pdetails h3,.pinfo,.desc,.works,.wnote,.gcount{min-width:0;overflow-wrap:anywhere;word-break:break-word}
 .pd-inc,.pd-desc{overflow:hidden}.pinfo{min-width:0}.prod>*{min-width:0}
 h1,h2,h3{overflow-wrap:anywhere}
+
+.home-split{display:grid;grid-template-columns:clamp(500px,34vw,600px) minmax(0,1fr);gap:40px;width:calc(100% - 64px);max-width:none;margin:32px 32px 0;padding:0;box-sizing:border-box;align-items:start}
+.home-products{min-width:0}
+.home-products .wrap.finder{max-width:none;margin:0;padding-left:0;padding-right:0}
+.home-copy{box-sizing:border-box;width:100%;background:#faf8fd;border:1px solid var(--line);border-radius:16px;padding:22px 24px;margin-top:48px;font-size:16px;line-height:1.65;min-width:0}
+.home-copy h2{font-family:"DM Serif Display",Georgia,serif;font-weight:400;font-size:26px;line-height:1.25;margin:36px 0 10px;padding-top:18px;border-top:1px solid var(--line);letter-spacing:0}
+.home-copy h2:first-of-type{border-top:0;padding-top:0;margin-top:8px}
+.home-copy h3{font-size:18px;margin:22px 0 6px}
+.home-copy h2,.home-copy h3{scroll-margin-top:84px}
+.home-copy hr{display:none}
+.home-copy p{margin:0 0 12px}
+.home-copy ul,.home-copy ol{margin:8px 0 14px;padding-left:1.25rem}
+.home-copy li{margin:4px 0}
+.home-copy a{color:var(--a1)}
+.home-copy table{border-collapse:collapse;width:100%;font-size:13.5px;margin:12px 0}
+.home-copy td,.home-copy th{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+.home-copy th{background:#f0ebfa}
+.home-copy .table-scroll{overflow-x:auto;max-width:100%;margin:12px 0}
+.home-toc{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin:0 0 8px}
+.home-toc ol{columns:1;font-size:14.5px;margin:6px 0 0}
+.home-back{margin-top:20px}
+@media(max-width:1099px){.home-split{grid-template-columns:1fr;gap:0;width:calc(100% - 32px);margin:16px 16px 0}.home-copy{order:2;margin-top:24px}.home-products{order:1}}
