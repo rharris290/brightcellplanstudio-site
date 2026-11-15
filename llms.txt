@@ -1,0 +1,83 @@
+# BrightCellPlanStudio
+
+> Digital planners, spreadsheet templates, OBS stream overlays, resumes and printables from two Etsy shops run by Ricardo: BrightCellPlanStudio and SpoonfulOfCalmStudio. Many products can also be bought on this website with secure checkout. Everything sold here is a digital file; nothing is shipped.
+
+Site: https://brightcellplanstudio.com/
+Contact: brightcellplanners@gmail.com
+Catalog: 1286 products (734 BrightCellPlanStudio, 552 SpoonfulOfCalmStudio).
+
+## About the shops
+
+- [BrightCellPlanStudio](https://www.etsy.com/shop/BrightCellPlanStudio) is the planning and productivity shop. It has Excel and Google Sheets spreadsheet templates, hyperlinked digital planners, e-ink tablet planners, planner bundles, digital planner stickers, and PowerPoint and Google Slides presentation templates. It is for people who like to plan: budgets and bills, weekly schedules and long-term goals, a small business or a pitch deck.
+- [SpoonfulOfCalmStudio](https://www.etsy.com/shop/SpoonfulOfCalmStudio) is the creative and career shop. It has OBS stream overlay packs for Twitch streamers, resume and cover letter templates, and printable planners and journals. Browse them together on [SpoonfulOfCalmStudio on this site](https://brightcellplanstudio.com/spoonfulofcalm/).
+- You can browse both shops here, buy many items with Buy Now checkout on this website, or follow the link on any product page to buy on Etsy.
+
+## Categories
+
+- [Digital Planners](https://brightcellplanstudio.com/c/digital-planners/): 456 products. Hyperlinked PDFs you write in with a stylus on a tablet. For people who want the feel of a paper planner, with tabs that jump to a month, week or section. Includes e-ink editions when the listing says so.
+- [Spreadsheets](https://brightcellplanstudio.com/c/spreadsheets/): 203 products. Excel and Google Sheets templates for people who would rather type than handwrite and want the math done for them. Households tracking spending, students, freelancers and small businesses.
+- [PowerPoint & Google Slides](https://brightcellplanstudio.com/c/powerpoint/): 67 products. PowerPoint and Google Slides presentation templates and infographic decks, for pitches, reports and talks.
+- [Digital Stickers](https://brightcellplanstudio.com/c/stickers/): 8 products. Pre-cropped PNG planner stickers for digital planners.
+- [OBS Stream Overlays](https://brightcellplanstudio.com/c/obs-overlays/): 468 products. OBS stream overlay packs for Twitch streamers, from SpoonfulOfCalmStudio.
+- [Resume Templates](https://brightcellplanstudio.com/c/resume-templates/): 76 products. Resume and cover letter templates for Word and Google Docs, for students through executive roles.
+- [Printables](https://brightcellplanstudio.com/c/printables/): 8 products. Printable PDF planners and journals from SpoonfulOfCalmStudio.
+
+## Featured products
+
+These are the products currently featured on the home page. Prices and titles come from the catalog and may change when the daily sync rebuilds this file.
+
+- [All-in-One Planner](https://brightcellplanstudio.com/p/ultimate-allinone-planner-2027/): Digital Planners, BrightCellPlanStudio, $14.99
+- [Everything Mega Spreadsheet Bundle](https://brightcellplanstudio.com/p/everything-mega-bundle-spreadsheet/): Spreadsheets, BrightCellPlanStudio, $44.99
+- [Twitch Overlay Bundle](https://brightcellplanstudio.com/p/open-world-stream-overlay-bundle/): OBS Stream Overlays, SpoonfulOfCalmStudio, $24.99
+- [Executive Resume Bundle](https://brightcellplanstudio.com/p/executive-resume-bundle/): Resume Templates, SpoonfulOfCalmStudio, $11.99
+- [Spoonie Planner Bundle](https://brightcellplanstudio.com/p/spoonie-planner-bundle/): Printables, SpoonfulOfCalmStudio, $8.99
+- [Personal Finance and Budget Spreadsheet Bundle](https://brightcellplanstudio.com/p/personal-finance-budget-bundle-spreadsheet/): Spreadsheets, BrightCellPlanStudio, $17.99
+- [50-30-20 Budget](https://brightcellplanstudio.com/p/50-30-20-budget/): Digital Planners, BrightCellPlanStudio, $8.99
+- [Animated Burnt Olive Vanity Aesthetic Twitch Overlay](https://brightcellplanstudio.com/p/burnt-olive-vanity-obs-overlay-pack/): OBS Stream Overlays, SpoonfulOfCalmStudio, $14.99
+
+## Who the products are for
+
+Taken from the published home-page copy:
+
+- Spreadsheets: households that want to see where their money goes; students juggling deadlines; freelancers and side hustlers who need a simple record-keeping system; anyone who would rather use a sheet they can see and change themselves.
+- Digital planners: people who want a paper-planner feel on a tablet, including iPad and, where the listing says so, e-ink tablets. There are life and all-in-one planners, budget and finance planners, health journals, family and wedding planners, and faith planners.
+- Presentation templates: people preparing a pitch, report, lesson or talk who want a ready-made slide structure.
+- Stream overlays: Twitch streamers setting up scenes, webcam frames and alerts in OBS Studio.
+- Resumes: people applying for work, from student and entry-level through senior and executive roles.
+- Printables: people who prefer a paper planner or journal they can print at home.
+
+## How-to guides
+
+All guides: https://brightcellplanstudio.com/guides/
+
+- [How to use a budget spreadsheet in Google Sheets](https://brightcellplanstudio.com/guides/budget-spreadsheet-google-sheets/)
+- [How to use a digital planner in GoodNotes](https://brightcellplanstudio.com/guides/digital-planner-goodnotes/)
+- [How to add an overlay to OBS Studio](https://brightcellplanstudio.com/guides/add-obs-overlay/)
+- [How to choose and open a hyperlinked PDF planner on your tablet](https://brightcellplanstudio.com/guides/hyperlinked-planner-pdf/)
+- [Dated vs undated planners: how to choose and get started](https://brightcellplanstudio.com/guides/dated-vs-undated-planner/)
+- [How to customize a presentation template](https://brightcellplanstudio.com/guides/customize-presentation-templates/)
+- [How to edit a resume and cover letter template and save a final PDF](https://brightcellplanstudio.com/guides/edit-resume-cover-letter/)
+- [How to print planner and worksheet PDFs](https://brightcellplanstudio.com/guides/print-pdf-planners/)
+- [How to write a brief for a custom CRM, app or website project](https://brightcellplanstudio.com/guides/custom-project-brief/)
+- [How to pay off debt with a spreadsheet](https://brightcellplanstudio.com/guides/pay-off-debt-spreadsheet/)
+- [Beginner budget spreadsheet guide](https://brightcellplanstudio.com/guides/beginner-budget-spreadsheet/)
+- [Best stream overlay setup for beginners](https://brightcellplanstudio.com/guides/stream-overlay-setup-beginners/)
+
+## Custom work
+
+If a ready-made template is not the right fit, Ricardo takes on custom projects. Scope, price and timing are always agreed by email first. There is no ready-made CRM for sale; CRM work is scoped as a custom project.
+
+- [Custom work](https://brightcellplanstudio.com/custom.html): custom spreadsheets and templates (Excel / Google Sheets); digital planners for GoodNotes and iPad; slide decks (PowerPoint / Google Slides); OBS stream overlays; resumes and cover letters; printables; and also custom CRM software, custom app development, and website design and development.
+- [How to write a brief for a custom CRM, app or website project](https://brightcellplanstudio.com/guides/custom-project-brief/)
+- Email: brightcellplanners@gmail.com
+
+## Other pages
+
+- [Home](https://brightcellplanstudio.com/)
+- [Search](https://brightcellplanstudio.com/search.html)
+- [About and contact](https://brightcellplanstudio.com/contact.html)
+- [Delivery](https://brightcellplanstudio.com/shipping.html)
+- [Refunds and returns](https://brightcellplanstudio.com/returns.html)
+- [Privacy policy](https://brightcellplanstudio.com/privacy.html)
+- [Terms of sale](https://brightcellplanstudio.com/terms.html)
+
