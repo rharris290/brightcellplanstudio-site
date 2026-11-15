@@ -16,3 +16,15 @@
 @media(max-width:860px){.su2{grid-template-columns:minmax(0,1fr)}.su2-copy{min-width:0}.su2 h2{font-size:2rem}.su2-form input{min-width:0;width:100%;flex-basis:100%}.su2-pts{flex-direction:column}}
 @media(max-width:860px){.fsu{margin-left:16px;margin-right:16px;padding:1.4rem 1.2rem}}
 .su2-err{display:none;width:100%;margin:.3rem 0 0;font-weight:700;color:#ff8fb1}.su2-form.err .su2-err{display:block}.su2-form .btn:disabled{opacity:.6}
+
+/* Full homepage signup, placed just under the hero */
+.hero+#join .su2{margin-top:1.25rem;margin-bottom:.25rem}
+/* Compact product-page signup (same Kit form, shorter layout) */
+.psu{display:flex;align-items:center;justify-content:space-between;gap:1.5rem;padding:1.5rem 1.8rem;margin:1.5rem 0 1rem;border-radius:20px;background:var(--dark);color:#fff;position:relative;overflow:hidden;box-shadow:0 24px 48px -28px rgba(109,61,245,.55);border:1px solid rgba(255,255,255,.12)}
+.psu:before{content:"";position:absolute;right:-90px;top:-140px;width:300px;height:300px;background:radial-gradient(circle,rgba(194,59,212,.45),transparent 62%)}
+.psu>*{position:relative;z-index:1}
+.psu b{display:block;font-size:22px;color:#fff;margin:.4rem 0 .35rem;font-weight:800}
+.psu .su2-tag{margin-bottom:0}
+.psu>div>span:not(.su2-tag){color:#cfc9ea;font-size:14px;line-height:1.5;display:block;max-width:62ch}
+.psu .su2-form{flex:none;width:440px}
+@media(max-width:860px){.psu{flex-direction:column;align-items:stretch;padding:1.4rem 1.2rem}.psu .su2-form{width:auto}}
