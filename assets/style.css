@@ -130,3 +130,16 @@ h1,h2,h3{overflow-wrap:anywhere}
 .home-toc ol{columns:1;font-size:14.5px;margin:6px 0 0}
 .home-back{margin-top:20px}
 @media(max-width:1099px){.home-split{grid-template-columns:1fr;gap:0;width:calc(100% - 32px);margin:16px 16px 0}.home-copy{order:2;margin-top:24px}.home-products{order:1}}
+/* SpoonfulOfCalm dropdown in the top menu + header fit (no overflow 901px and up) */
+.dd{position:relative;display:flex}.dd-btn{display:inline-flex;align-items:center;gap:4px;border:0;background:none;font:inherit;font-weight:600;font-size:14px;padding:8px 12px;border-radius:999px;white-space:nowrap;color:var(--muted);cursor:pointer}
+.dd-btn svg{transition:transform .2s}.dd.open .dd-btn svg{transform:rotate(180deg)}.dd-btn:hover,.dd.open .dd-btn{background:#efeafd;color:var(--a1)}
+.dd-btn:focus-visible,.dd-menu a:focus-visible{outline:2px solid var(--a1);outline-offset:2px}
+.dd-menu{display:none;position:absolute;top:100%;left:0;z-index:80;min-width:230px;padding:8px;margin-top:6px;background:#fff;border:1px solid var(--line);border-radius:16px;box-shadow:0 18px 40px rgba(20,17,43,.16)}
+.dd-menu::before{content:"";position:absolute;left:0;right:0;top:-10px;height:10px}
+.dd.open .dd-menu{display:block}.nav .dd-menu a{display:block;border-radius:10px;padding:10px 12px;color:var(--ink)}.nav .dd-menu a small{display:block;font-weight:500;font-size:12px;color:var(--muted)}
+.nav .dd-menu a:hover{background:#efeafd;color:var(--a1)}
+@media(max-width:900px){.dd{display:contents}.dd-btn{display:none}.dd-menu,.dd.open .dd-menu{display:contents}.nav .dd-menu a{display:inline-block;border-radius:999px;padding:8px 12px;color:var(--muted)}.nav .dd-menu a small{display:none}}
+@media(min-width:901px){.dd-btn{padding:8px 10px;font-size:13.5px}}
+@media(min-width:901px) and (max-width:1279px){.hdr-in{flex-wrap:wrap;height:auto;padding-top:10px;padding-bottom:10px;row-gap:8px}.hsoc{margin-left:auto}.nav{order:3;flex:0 0 auto}.srch{order:4;flex:1 1 220px}}
+@media(min-width:1280px){.hdr-in{gap:14px}.nav a,.dd-btn{padding:8px 8px}.hsoc{gap:2px;margin-left:auto}.hsoc .si{width:34px}.hsoc .si[title^="Etsy"]{display:none}}
+@media(max-width:900px){.nav{-webkit-mask-image:linear-gradient(90deg,#000 88%,transparent);mask-image:linear-gradient(90deg,#000 88%,transparent);padding-right:24px}}
