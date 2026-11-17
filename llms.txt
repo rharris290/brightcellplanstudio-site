@@ -4,7 +4,7 @@
 
 Site: https://brightcellplanstudio.com/
 Contact: brightcellplanners@gmail.com
-Catalog: 1316 products (764 BrightCellPlanStudio, 552 SpoonfulOfCalmStudio).
+Catalog: 1312 products (763 BrightCellPlanStudio, 549 SpoonfulOfCalmStudio).
 
 ## About the shops
 
@@ -17,10 +17,10 @@ Catalog: 1316 products (764 BrightCellPlanStudio, 552 SpoonfulOfCalmStudio).
 
 - [Digital Planners](https://brightcellplanstudio.com/c/digital-planners/): 456 products. Hyperlinked PDFs you write in with a stylus on a tablet. For people who want the feel of a paper planner, with tabs that jump to a month, week or section. Includes e-ink editions when the listing says so.
 - [Spreadsheets](https://brightcellplanstudio.com/c/spreadsheets/): 203 products. Excel and Google Sheets templates for people who would rather type than handwrite and want the math done for them. Households tracking spending, students, freelancers and small businesses.
-- [PowerPoint & Google Slides](https://brightcellplanstudio.com/c/powerpoint/): 67 products. PowerPoint and Google Slides presentation templates and infographic decks, for pitches, reports and talks.
+- [PowerPoint & Google Slides](https://brightcellplanstudio.com/c/powerpoint/): 66 products. PowerPoint and Google Slides presentation templates and infographic decks, for pitches, reports and talks.
 - [Digital Stickers](https://brightcellplanstudio.com/c/stickers/): 8 products. Pre-cropped PNG planner stickers for digital planners.
-- [OBS Stream Overlays](https://brightcellplanstudio.com/overlays/): 468 products. OBS stream overlay packs for Twitch streamers, from SpoonfulOfCalmStudio.
-- [Resume Templates](https://brightcellplanstudio.com/resumes/): 76 products. Resume and cover letter templates for Word and Google Docs, for students through executive roles.
+- [OBS Stream Overlays](https://brightcellplanstudio.com/overlays/): 467 products. OBS stream overlay packs for Twitch streamers, from SpoonfulOfCalmStudio.
+- [Resume Templates](https://brightcellplanstudio.com/resumes/): 74 products. Resume and cover letter templates for Word and Google Docs, for students through executive roles.
 - [Printables](https://brightcellplanstudio.com/c/printables/): 8 products. Printable PDF planners and journals from SpoonfulOfCalmStudio.
 - [Website Templates](https://brightcellplanstudio.com/c/website-templates/): 30 products.
 
