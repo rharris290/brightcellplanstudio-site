@@ -143,3 +143,10 @@ h1,h2,h3{overflow-wrap:anywhere}
 @media(min-width:901px) and (max-width:1279px){.hdr-in{flex-wrap:wrap;height:auto;padding-top:10px;padding-bottom:10px;row-gap:8px}.hsoc{margin-left:auto}.nav{order:3;flex:0 0 auto}.srch{order:4;flex:1 1 220px}}
 @media(min-width:1280px){.hdr-in{gap:14px}.nav a,.dd-btn{padding:8px 8px}.hsoc{gap:2px;margin-left:auto}.hsoc .si{width:34px}.hsoc .si[title^="Etsy"]{display:none}}
 @media(max-width:900px){.nav{-webkit-mask-image:linear-gradient(90deg,#000 88%,transparent);mask-image:linear-gradient(90deg,#000 88%,transparent);padding-right:24px}}
+.rv{margin-top:3rem}.rv-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:26px}
+.rv-head{display:flex;flex-wrap:wrap;gap:12px;align-items:baseline;justify-content:space-between}
+.rv-stars{color:#f5a524;letter-spacing:2px;font-size:20px}.rv-stars .off{color:#d9d4ea}
+.rv-sum{display:flex;align-items:center;gap:14px;margin:6px 0 4px}.rv-big{font-size:36px;font-weight:800}
+.rv-empty{text-align:center;padding:30px 12px}.rv-empty .rv-stars{font-size:28px}
+.rv-list{display:grid;gap:14px;margin-top:18px}.rv-item{border-top:1px solid var(--line);padding-top:14px}.rv-text{margin:.35rem 0;overflow-wrap:anywhere}
+.rv-meta{font-size:14px;color:var(--muted)}.rv-ver{display:inline-block;font-size:12px;font-weight:700;color:#18794e;background:#e9f9f0;border-radius:99px;padding:2px 9px;margin-left:6px}
