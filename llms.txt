@@ -4,7 +4,7 @@
 
 Site: https://brightcellplanstudio.com/
 Contact: brightcellplanners@gmail.com
-Catalog: 1312 products (763 BrightCellPlanStudio, 549 SpoonfulOfCalmStudio).
+Catalog: 1357 products (763 BrightCellPlanStudio, 594 SpoonfulOfCalmStudio).
 
 ## About the shops
 
@@ -21,7 +21,7 @@ Catalog: 1312 products (763 BrightCellPlanStudio, 549 SpoonfulOfCalmStudio).
 - [Digital Stickers](https://brightcellplanstudio.com/c/stickers/): 8 products. Pre-cropped PNG planner stickers for digital planners.
 - [OBS Stream Overlays](https://brightcellplanstudio.com/overlays/): 467 products. OBS stream overlay packs for Twitch streamers, from SpoonfulOfCalmStudio.
 - [Resume Templates](https://brightcellplanstudio.com/resumes/): 74 products. Resume and cover letter templates for Word and Google Docs, for students through executive roles.
-- [Printables](https://brightcellplanstudio.com/c/printables/): 8 products. Printable PDF planners and journals from SpoonfulOfCalmStudio.
+- [Printables](https://brightcellplanstudio.com/c/printables/): 53 products. Printable PDF planners and journals from SpoonfulOfCalmStudio.
 - [Website Templates](https://brightcellplanstudio.com/c/website-templates/): 30 products.
 
 ## Featured products
