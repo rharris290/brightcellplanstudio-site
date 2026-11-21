@@ -61,6 +61,33 @@
     return Number.isFinite(value) ? value : null;
   }
 
+  function cookie(name) {
+    const m = document.cookie.match(new RegExp('(?:^|;\\s*)' + name.replace(/[.$?*|{}()[\]\\/+^]/g, '\\$&') + '=([^;]*)'));
+    return m ? decodeURIComponent(m[1]) : '';
+  }
+
+  // GA browser id for the server-side purchase event: "ga-<rand>-<ts>[-s<sessionId>]" (Stripe allows letters,
+  // digits, dashes, underscores). The delivery Worker turns it back into the GA client_id after payment.
+  function gaRef() {
+    const m = cookie('_ga').match(/^GA\d\.\d+\.(\d+)\.(\d+)$/);
+    if (!m) return '';
+    let ref = 'ga-' + m[1] + '-' + m[2];
+    const g = cookie('_ga_0G337QF6YX');
+    const sm = g.match(/^GS1\.\d+\.(\d+)\./) || g.match(/^GS2\.\d+\.s(\d+)/);
+    if (sm) ref += '-s' + sm[1];
+    return ref;
+  }
+
+  function tagStripeLink(link, url) {
+    try {
+      if (url.searchParams.has('client_reference_id')) return;
+      const ref = gaRef();
+      if (!ref) return;
+      url.searchParams.set('client_reference_id', ref);
+      link.href = url.href;
+    } catch (e) {}
+  }
+
   function send(name, params) {
     if (typeof window.gtag !== 'function') return;
     window.gtag('event', name, params);
@@ -88,6 +115,7 @@
         params.currency = 'USD';
       }
       send('buy_click', params);
+      tagStripeLink(link, url);
     } else {
       send('etsy_click', params);
     }
