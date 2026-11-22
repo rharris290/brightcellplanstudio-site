@@ -150,3 +150,11 @@ h1,h2,h3{overflow-wrap:anywhere}
 .rv-empty{text-align:center;padding:30px 12px}.rv-empty .rv-stars{font-size:28px}
 .rv-list{display:grid;gap:14px;margin-top:18px}.rv-item{border-top:1px solid var(--line);padding-top:14px}.rv-text{margin:.35rem 0;overflow-wrap:anywhere}
 .rv-meta{font-size:14px;color:var(--muted)}.rv-ver{display:inline-block;font-size:12px;font-weight:700;color:#18794e;background:#e9f9f0;border-radius:99px;padding:2px 9px;margin-left:6px}
+/* checkout fixes (Nov 21, 2026): tax note, primary Buy Now + outline Etsy, checkout note, WELCOME10 */
+.pinfo .taxnote{font-size:13px;color:var(--muted);margin:-4px 0 8px}
+.pinfo .btn.etsybtn{background:transparent;color:var(--a1);box-shadow:inset 0 0 0 2px var(--a1)}
+.pinfo .btn.etsybtn:hover{background:rgba(109,61,245,.07);box-shadow:inset 0 0 0 2px var(--a1)}
+.pinfo .buynote{font-size:14px;color:var(--muted);margin:12px 0 0}
+.pinfo .promo{font-size:14px;margin:6px 0 0;padding:8px 12px;border-radius:12px;background:#f3eefe;color:#3b2a7a;display:inline-block}
+.pinfo .promo b{letter-spacing:.5px}
+@media(max-width:560px){.pinfo .btn.lg{display:block;text-align:center;margin:0 0 10px!important}}
