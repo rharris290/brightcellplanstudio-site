@@ -4,7 +4,7 @@
 
 Site: https://brightcellplanstudio.com/
 Contact: brightcellplanners@gmail.com
-Catalog: 1373 products (779 BrightCellPlanStudio, 594 SpoonfulOfCalmStudio).
+Catalog: 1481 products (887 BrightCellPlanStudio, 594 SpoonfulOfCalmStudio).
 
 ## About the shops
 
@@ -15,7 +15,7 @@ Catalog: 1373 products (779 BrightCellPlanStudio, 594 SpoonfulOfCalmStudio).
 
 ## Categories
 
-- [Digital Planners](https://brightcellplanstudio.com/c/digital-planners/): 456 products. Hyperlinked PDFs you write in with a stylus on a tablet. For people who want the feel of a paper planner, with tabs that jump to a month, week or section. Includes e-ink editions when the listing says so.
+- [Digital Planners](https://brightcellplanstudio.com/c/digital-planners/): 564 products. Hyperlinked PDFs you write in with a stylus on a tablet. For people who want the feel of a paper planner, with tabs that jump to a month, week or section. Includes e-ink editions when the listing says so.
 - [Spreadsheets](https://brightcellplanstudio.com/c/spreadsheets/): 203 products. Excel and Google Sheets templates for people who would rather type than handwrite and want the math done for them. Households tracking spending, students, freelancers and small businesses.
 - [PowerPoint & Google Slides](https://brightcellplanstudio.com/c/powerpoint/): 66 products. PowerPoint and Google Slides presentation templates and infographic decks, for pitches, reports and talks.
 - [Digital Stickers](https://brightcellplanstudio.com/c/stickers/): 8 products. Pre-cropped PNG planner stickers for digital planners.
